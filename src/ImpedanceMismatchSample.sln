@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImpedanceMismatchSample1", "ImpedanceMismatchSample1\ImpedanceMismatchSample1.csproj", "{4969AC06-9086-4170-8724-6497415A3984}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImpedanceMismatchSamplePart1", "ImpedanceMismatchSamplePart1\ImpedanceMismatchSamplePart1.csproj", "{2AEAFF82-9AE9-46BC-9305-CA4A9DAC69FC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -8,9 +8,9 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{4969AC06-9086-4170-8724-6497415A3984}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{4969AC06-9086-4170-8724-6497415A3984}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{4969AC06-9086-4170-8724-6497415A3984}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{4969AC06-9086-4170-8724-6497415A3984}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2AEAFF82-9AE9-46BC-9305-CA4A9DAC69FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2AEAFF82-9AE9-46BC-9305-CA4A9DAC69FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2AEAFF82-9AE9-46BC-9305-CA4A9DAC69FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2AEAFF82-9AE9-46BC-9305-CA4A9DAC69FC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
