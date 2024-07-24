@@ -2,7 +2,7 @@
 using Dapper;
 using Microsoft.Data.SqlClient;
 
-var connectionString = "Server=localhost,1433;Database=master;User Id=sa;Password=1qaz@WSX;Trusted_Connection=False;MultipleActiveResultSets=true;TrustServerCertificate=True;";
+var connectionString = "Your Connection String";
 
 using (var connection = new SqlConnection(connectionString))
 {
